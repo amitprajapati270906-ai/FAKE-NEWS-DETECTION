@@ -1,2 +1,2 @@
 # FAKE-NEWS-DETECTION
-this is power bi end to end project
+this is fake news detection end to end project
